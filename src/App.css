@@ -1,0 +1,12 @@
+.form-container {
+  box-sizing: border-box;
+  height: 60vh;
+  width: 99%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-container div {
+  width: 100%;
+}
