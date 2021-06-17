@@ -30,7 +30,7 @@ function LoginForm() {
                 {/* password input  */}
                 <Grid container spacing={2} justify="center">
                     <Grid item xs={2}>
-                    <TextField id='password' label="Password" variant="outlined" name="password"/>
+                    <TextField id='password' label="Password" type="password" variant="outlined" name="password"/>
                     </Grid>
                 </Grid>
                 {/* submit button  */}
